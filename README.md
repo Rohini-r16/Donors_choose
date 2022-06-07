@@ -8,4 +8,4 @@ Next year, DonorsChoose.org expects to receive close to 500,000 project proposal
 * How to increase the consistency of project vetting across different volunteers to improve the experience for teachers
 * How to focus volunteer time on the applications that need the most assistance
 
-The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.
+The goal is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.
